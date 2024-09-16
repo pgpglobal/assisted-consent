@@ -1,0 +1,1 @@
+This project is a candidate for Outreachy participation, and we refer to all interested parties to the [Outreachy Code of Conduct](https://github.com/outreachy/website/blob/478c85f084de058ad8e4249d3c8d15d4025ed66d/CODE-OF-CONDUCT.md), last updated 01/28/2022, for the contributors' commitment to an open and welcoming environment.
